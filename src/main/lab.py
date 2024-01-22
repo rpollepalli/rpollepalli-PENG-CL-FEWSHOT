@@ -22,7 +22,7 @@ TODO: Change the prompt below to allow for the generation of output as described
 You should provide the LLM with a few examples so that the output is correctly 
 formatted.
 """
-prompt = ""
+prompt = "the banana is yellow based on variety"
 
 """
 There is no need to change the below function. It will properly use the prompt &
